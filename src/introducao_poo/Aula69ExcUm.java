@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Aula69ExcUm {
     public static void main(String[] args) {
+
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
         Aula69Area retangulo = new Aula69Area();
